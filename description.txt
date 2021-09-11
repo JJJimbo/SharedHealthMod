@@ -1,0 +1,9 @@
+Shared Health causes every player to take damage when one player takes damage.
+
+The damaging part works.
+
+Can't get the regen to work correctly.
+
+Should be usable as it is.
+
+This was a request on the forums back in March, thought I'd take a crack at it.

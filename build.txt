@@ -1,0 +1,4 @@
+displayName = Shared Health
+author = Apolo4914
+version = 0.2
+modReferences = NetEasy
